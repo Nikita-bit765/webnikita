@@ -257,3 +257,44 @@ h24 {
 .head{
 	color: red;
 }
+.block h2 {
+	color: red;
+}
+.block h2 {
+	color: red;
+}
+.block p {
+	color: green;
+}
+.bbb i {
+color:red;
+}
+.blick .header {
+	font-family: Arial;
+}
+.blick h2.header {
+	font-size: 30px;
+	color: red;
+}
+.blick h3.header {
+	font-size: 20px;
+	color: green;
+}
+.block .header {
+	font-family: Arial;
+}
+.block h2.header {
+	font-size: 30px;
+	color: red;
+}
+.blick h3.header {
+	font-size: 20px;
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+	font-family: Arial;
+}
