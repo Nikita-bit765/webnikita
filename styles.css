@@ -1,0 +1,259 @@
+td {
+	width: 200px;
+	height: 100px;
+} 
+p{
+    text-align: right;
+}
+#p2{
+    text-align: right;
+}
+#p3{
+    text-align: center;
+}
+#p3{
+    color:rgb(58, 146, 97);
+}
+#p6{
+    text-align: right;
+}
+#p7{
+    text-align: center;
+}
+#p8{
+    text-align: left;
+}
+h2 {
+    font-weight: normal;
+}
+#p9{
+font-style: italic;
+}
+#p9{
+    text-align: center;
+}
+#p9{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+h3{
+    font-style: italic;
+}
+h4{
+    font-size: 30px;
+}
+#k1{
+    text-align: center;
+}
+#k2{
+    text-align: center;
+}
+#k3{
+    text-align: center;
+}
+#k4{
+    text-align: center;
+}
+#k5{
+    text-align: center;
+}
+#k1{
+    text-align: italic;
+}
+#k2{
+    text-align: italic;
+}
+#k3{
+    text-align: italic;
+}
+#k4{
+    text-align: italic;
+}
+#k5{
+    text-align: italic;
+}
+#k6{
+	font-family: Arial;
+}
+#k7{
+	font-family: "Comic Sans MS";
+}
+#k6{
+    text-align: left;
+}
+#k7{
+    text-align: left;
+}
+#pk7{
+	font-size: 30px;
+	line-height: 15px;
+	text-align: justify;
+	width: 400px;
+}
+#pk1 {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+
+
+#pk2 {
+    text-indent: 50px;
+    text-align: justify;
+    width: 300px;
+}
+
+#pk3 {
+    text-indent: 40px;
+    text-align: justify;
+    width: 400px;
+}
+#pk4{
+    text-decoration: underline;
+}
+#pk4{
+    text-align: center;
+}
+#pk4{
+    font-size: 40px;
+    font-size: italic;
+}
+#pk5 {
+	text-decoration: overline;
+}
+#pk5{
+        text-align: left;
+    }
+#pk5{
+    font-size: 20px;
+}
+#pk5{
+    color: rgb(168, 74, 190);
+}
+#l1{
+    text-decoration: line-through;
+} 
+#l1{
+    text-align: center;
+}
+#l1{
+    font-size: 30px;
+}
+#l1{
+    color: rgb(180, 53, 157 );
+}
+a {
+    text-decoration: none;
+}
+#l2{
+    color: red;
+}
+i {
+    color: blueviolet;
+}
+h3, h4, h5 p{
+    color:  blue;
+}
+#k1, #k2, #k3 {
+text-align: center;
+color: blueviolet;
+font-size: 16px;
+}
+ul il {
+    color: aqua;
+}
+ol li{
+    color: blue;
+}
+#gg1 i {
+	color: pink;
+}
+#gg1 i {
+	color: red;
+}
+#rt b{
+    color: paleturquoise;
+}
+#rt1 b {
+    color: navy;
+}
+.eee {
+    color: chartreuse;
+}
+.zzz {
+    color: darkgreen;
+}
+.eee {
+    font-family: "Comic Sans MS";
+}
+.zzz {
+    font-family: "Comic Sans MS";
+}
+.zzz {
+    text-align: center;
+}
+.eee {
+    text-align: left  ;
+}
+.trt{
+    color: deeppink;
+}
+.trt {
+        font-family: "Comic Sans MS";
+}
+#niga {
+    color: blueviolet;
+}
+#niga {
+        font-family:Arial ;
+}
+.xer {
+    font-size: 30px;
+}
+.xer {
+    color: cornflowerblue;
+}
+.xer {
+    font-family: "Comic Sans MS";
+}
+h24 {
+    font-size:"Comic Sans MS";
+}
+h24 {
+    color: cornflowerblue;
+}
+#pr {
+    text-align: left;
+}
+#pr0 {
+    text-align: center;
+}
+#pr1 {
+    text-align: center;
+}
+#pr2{
+    text-align: right;
+}
+#pr {
+    color:brown;
+}
+#pr {
+    font-size: 20px;
+}
+#pr0 {
+    font-size: 20px;
+}
+#pr1 {
+    font-size: 20px;
+}
+#pr2 {
+    font-size: 20px;
+}
+.head{
+	color: red;
+}
