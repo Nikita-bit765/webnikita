@@ -2,9 +2,6 @@ td {
 	width: 200px;
 	height: 100px;
 } 
-p{
-    text-align: right;
-}
 #p2{
     text-align: right;
 }
@@ -22,9 +19,6 @@ p{
 }
 #p8{
     text-align: left;
-}
-h2 {
-    font-weight: normal;
 }
 #p9{
 font-style: italic;
@@ -334,4 +328,137 @@ color:red;
 }
 .nrnn.kfkk{
     font-size:"Comic Sans MS";
+}
+ h287.erd.bls{
+    color: blueviolet;
+ }
+ #vyfuff{
+color: red;
+ }
+ #lorem.kiri.ffsd{
+    color: rgb(35, 52, 42);
+ }
+ h65#ssd.fsd{
+    color: rgb(192, 55, 94);
+ }
+ h33.ttt{
+    color: fuchsia;
+ }
+ h67 .lsp{
+    text-emphasis: none;
+ }
+.bnb.nbn{
+text-align: justify;
+}
+.bnb .nbn{
+    font-family: 'Courier New', Courier, monospace;
+}
+.qqq.www.rrr{
+    color: brown;
+}
+.qqq .www.rrr{
+    color: rgb(180, 53, 157 );
+}
+.qwerty.qwert  .qwer{
+    color-scheme: rebeccapurple;
+}
+.qwerty .qwert  .qwer{
+    color: rebeccapurple;
+}
+#trushni.ooo{
+    color: aqua;
+}
+#trushni .ooo{
+    color:darkblue;
+}
+#block h1, #block h2 {
+	text-align: center;
+}
+#block h1, #block h2 {
+	text-align: center;
+	font-size: 30px;
+    font-size: 20px;
+}
+#block h1, #block h2, #block h3 {
+	text-align: center;
+  
+}
+#block h2 {
+    color: blue;   
+}
+#block h3{
+    font-size: 16px;
+	color: red; 
+}
+#block h1.eee, #block h2.zzz {
+	text-align: center;
+}
+#block h1.eee {
+    font-size: 30px;
+}
+#block h2.zzz {
+    font-size: 20px;
+}
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
+}
+.eee h2.zzz, .xxx  {
+	text-align: center;
+}
+.kjk #esdf {
+    color: aqua;
+}
+.ghg #dasd{
+  color: aqua;
+}
+hgg h252{
+    text-align: initial;
+}
+.ghh h252{
+    text-align:initial;
+}
+#block .pref{
+    color: blueviolet;
+}
+#block h242{
+    color: coral;
+}
+.bbb {
+    color: darkgoldenrod;
+}
+#block .bbb{
+    text-align: center;
+}
+.bbb, .bbb {
+    text-align: left;
+}
+.bbb, h222 {
+    color: darkmagenta;
+}
+.btb, #bloock{
+    text-align: right;
+}
+.gbb, .txx{
+    color: cyan;
+}
+.bgb, .xtx {
+    color: orangered;
+}
+.btb, #bloock{
+    color: chartreuse;
+}
+.fhf {
+    color: crimson;
+}
+.fyf {
+    color: hotpink;
+}
+.fuf {
+    color:royalblue;
+}
+.bjb, .fjf{
+    color: blueviolet;
+}
+h1234.jbb, .jff{
+    color: hotpink;
 }
