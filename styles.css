@@ -462,3 +462,124 @@ hgg h252{
 h1234.jbb, .jff{
     color: hotpink;
 }
+#eleming ~ li{
+    color: aqua;
+}
+.eleem ~ li{
+    color: blueviolet;
+}
+ #lem ~ li {
+    color: cornflowerblue;
+ } 
+  * main{
+color:hotpink;
+ }
+ input[type] {
+	background-color: #C2DDFD;
+}
+a[href^="https://"] {
+	color: red;
+}
+a[href*="test"] {
+	color: green;
+}
+p[class~="test"] {
+	color: blue;
+}
+#tiltik {
+    color: fuchsia;
+}
+ #ga{
+    color: blueviolet;
+}
+a:link {
+	color: red;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: blue;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+a:link{
+    color: aqua;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: black;
+}
+a{
+    color: aquamarine;
+    text-decoration: dashed;
+}
+a:hover {
+color: crimson;
+text-decoration:none;
+}
+#bloack a:link, #bloack a:visited {
+	color: red;
+}
+#bloack a:hover {
+	text-decoration: none;
+}
+#bloack a {
+	color: red;
+}
+#bloak a:hover {
+	text-decoration: none;
+}
+#test a {
+	color: blue;
+}
+#test a:hover {
+	text-decoration: none;
+}
+a.zzzz{
+	color: red;
+}
+a.zzzz:hover {
+	text-decoration: none;
+}
+a.ffff {
+	color: blueviolet;
+}
+a.ffff:hover {
+	text-decoration: none;
+}
+#zz a.ff {
+	color: red;
+}
+#zz a.ff:hover {
+	text-decoration: none;
+}
+.bock a.z1 {
+	color: blue;
+}
+.bock a.z1:hover {
+	text-decoration: none;
+}
+li:first-child {
+	color: blueviolet;
+}
+li:last-child {
+	color: rgb(47, 211, 240);
+}
+
+li:nth-child(4) {
+	color: red;
+}
+li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px;
+}
