@@ -583,3 +583,9 @@ li:empty {
 	color: blue;
 	width: 100px;
 }
+q:lang(en) {
+	quotes: "\201C" "\201D";
+}
+q:lang(de) {
+	quotes: "\201E" "\201C";
+}
