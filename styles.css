@@ -589,3 +589,85 @@ q:lang(en) {
 q:lang(de) {
 	quotes: "\201E" "\201C";
 }
+p::first-letter{
+    color:darkblue;
+    font-size: 30px;
+}
+p::first-line {
+	color:red;
+}
+p::first-line {
+	color:green;
+}
+p {
+	width: 50%;
+	margin: 0 auto;
+	text-align: justify;
+}
+#good {
+	transition-duration: 2s;
+	transition-property: width;
+	border: 1px solid blueviolet;
+	height: 50px;
+	width: 100px;
+}
+#good:hover {
+	width: 400px;
+}
+#eleam {
+	border: 1px solid black;
+	transition-timing-function: ease-in;
+	transition-duration: 2s;
+	transition-property: width;
+	height: 50px;
+	width: 100px;
+}
+#eleam:hover {
+	width: 400px;
+}
+#elaem {
+	transition-duration: 2s;
+	transition-property: width;
+	border: 1px solid deeppink;
+	height: 50px;
+	width: 100px;
+}
+#elaem:hover {
+	width: 400px;
+}
+@keyframes anim {
+	from {
+		margin-left: 0px;
+	}
+	to {
+		margin-left: 400px;
+	}
+}
+
+#elam {
+	animation: anim 3s infinite;
+	border: 1px solid brown;
+	width: 50px;
+	height: 50px;
+}
+@keyframes move {
+	from {
+		width: 200px;
+	}
+	to {
+		width: 400px;
+	}
+}
+
+#ellem {
+	animation-play-state: paused;
+	animation-duration: 1s;
+	animation-name: move;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	border: 1px solid black;
+	height: 50px;
+}
+#ellem:hover {
+	animation-play-state: running;
+}
