@@ -671,3 +671,18 @@ p {
 #ellem:hover {
 	animation-play-state: running;
 }
+#xuesos {
+    color:rgb(180, 53, 157 );
+ text-decoration: line-through;   
+}
+#ellem {
+	border: 1px solid black;
+	width: 100px;
+	height: 50px;
+}
+#ellem:hover {
+	transform: scaleX(2);
+}
+#ellem {
+    text-align:center;
+}
